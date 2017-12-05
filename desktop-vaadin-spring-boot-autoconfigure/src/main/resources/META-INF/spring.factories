@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=de.hoglicode.desktop.vaadin.autoconfigure.DesktopAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=de.hrichtersource.desktop.vaadin.autoconfigure.DesktopAutoConfiguration

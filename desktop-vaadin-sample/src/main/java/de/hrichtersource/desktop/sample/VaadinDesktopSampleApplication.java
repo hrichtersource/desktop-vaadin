@@ -5,7 +5,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-//@ComponentScan("de.hoglicode.desktop.sample,de.hoglicode.desktop.vaadin")
+//@ComponentScan("de.hrichtersource.desktop.sample,de.hrichtersource.desktop.vaadin")
 public class VaadinDesktopSampleApplication {
 
 	public static void main(String[] args) {

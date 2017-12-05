@@ -1,4 +1,4 @@
-package de.hoglicode.desktop.sample;
+package de.hrichtersource.desktop.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

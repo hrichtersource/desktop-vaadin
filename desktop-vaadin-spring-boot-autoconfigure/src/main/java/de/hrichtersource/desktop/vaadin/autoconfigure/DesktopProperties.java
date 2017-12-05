@@ -2,7 +2,7 @@ package de.hrichtersource.desktop.vaadin.autoconfigure;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix = "de.hoglicode.desktop")
+@ConfigurationProperties(prefix = "de.hrichtersource.desktop")
 public class DesktopProperties {
 
   private int width;
