@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>de.hoglicode</groupId>
+	<groupId>de.hrichtersource</groupId>
 	<artifactId>desktop-vaadin-spring-boot-autoconfigure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Desktop application auto configuration</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-boot.version>1.5.8.RELEASE</spring-boot.version>
-		<de.hoglicode.desktop.version>0.0.1-SNAPSHOT</de.hoglicode.desktop.version>
+		<de.hrichtersource.desktop.version>0.0.1-SNAPSHOT</de.hrichtersource.desktop.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -28,9 +28,9 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>de.hoglicode</groupId>
+			<groupId>de.hrichtersource</groupId>
 			<artifactId>desktop-vaadin</artifactId>
-			<version>${de.hoglicode.desktop.version}</version>
+			<version>${de.hrichtersource.desktop.version}</version>
 			<optional>true</optional>
 		</dependency>
 	</dependencies>

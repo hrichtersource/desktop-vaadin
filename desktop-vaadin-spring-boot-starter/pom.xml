@@ -17,12 +17,12 @@
         </dependency>
 
         <dependency>
-            <groupId>de.hoglicode</groupId>
+            <groupId>de.hrichtersource</groupId>
             <artifactId>desktop-vaadin-spring-boot-autoconfigure</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>de.hoglicode</groupId>
+            <groupId>de.hrichtersource</groupId>
             <artifactId>desktop-vaadin</artifactId>
             <version>${project.version}</version>
         </dependency>
