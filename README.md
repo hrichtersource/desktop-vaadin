@@ -54,10 +54,6 @@ You only need Java 8 on the machine to run it. No installation is needed.
 * [Maven](https://maven.apache.org/) - Dependency and build management
 * [Git](https://git-scm.com/) - Get it from Github
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Holger Richter** - *Idea and initial work*
@@ -65,4 +61,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) file for details
